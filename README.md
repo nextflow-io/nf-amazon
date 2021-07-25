@@ -1,4 +1,4 @@
-# nf-amazon 
+# nf-amazon plugin
 
 Nextflow plugin implementing the support for AWS computing service and storage. 
 
